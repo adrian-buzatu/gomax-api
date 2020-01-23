@@ -1,0 +1,5 @@
+*.log
+application/config/database.php
+application/config/config.php
+resources/media/*
+composer.json
